@@ -1,0 +1,509 @@
+ button {
+  position: relative;
+
+left: 45px;
+    margin-left: 55px !important;
+cursor: pointer;
+
+padding: 14px 30px;
+font-size: 18px;
+font-weight: bold;
+color: white;
+background: #000000 !important;
+border: none;
+border-radius: 10px;
+transition: 0.3s;
+top: 5px ;
+}
+
+ button:hover{
+
+background-color: gray !important;
+    transform: scale(1.05) !important;
+
+
+}
+
+
+ a {
+text-decoration: none;
+color: white;
+
+}
+
+
+
+
+
+#titulo1{
+position: relative;
+color: white;
+left: 80px;
+
+}
+
+#titulo2{
+position: relative;
+color: white;
+left: 128px;
+
+
+}
+
+
+#titulo3{
+position: relative;
+color: white;
+left: 132px;
+}
+
+#titulo4{
+position: relative;
+color: white;
+left: 100px;
+
+
+}
+
+
+#h31{
+  position: relative;
+color: white;
+
+font-size: 1.9em;
+left: 800px;
+
+}
+
+.menus{
+  position: relative;
+display: flex;
+gap: 55px;
+right: 320px;
+
+
+
+}
+.escolha1{
+position: relative;
+left: 510px;
+width: 350px;
+background-color: rgb(6, 17, 14);
+border-radius: 25px;
+
+padding-top: 25px;
+
+border-radius: 10px;
+}
+
+.escolha1 img {
+  position: relative;
+width: 200px;
+top: 10px;
+margin: auto !important;
+
+
+}
+/*
+.escolha1 h4 {
+color: white;
+position: relative;
+top: 10px;
+left: 125px;
+
+
+
+}
+*/
+
+
+
+
+.menus button {
+  position: relative;
+margin: auto;
+left: 45px;
+
+cursor: pointer;
+text-align: center;
+padding: 14px 30px;
+font-size: 18px;
+font-weight: bold;
+color: white;
+background: #4e0d0d;
+border: none;
+border-radius: 10px;
+transition: 0.3s;
+top: 5px;
+}
+
+ .menus button:hover{
+
+background-color: gray;
+    transform: scale(1.05);
+
+
+}
+
+#variante{
+position: relative;
+margin: auto;
+background-color: rgb(1, 39, 6);
+border-radius: 15px;
+width: 1200px;
+padding-top: 5px;
+padding-right: 45px ;
+height: 533px;
+padding-left: 45px ;
+display: none;
+}
+
+
+#variante img {
+
+position: relative;
+margin: auto;
+left: 690px;
+text-align: center;
+border-radius: 10px;
+top: 10px;
+width: 400px 
+
+}
+
+
+#variante h2 {
+ position: relative;
+color: white;
+font-size: 2.5em;
+text-shadow: 5px 4px 1px black;
+font-weight: bolder;
+right: 1px;
+bottom:  560px ;
+
+}
+
+
+#variante p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    position: relative;
+  left: 20px;
+    font-size: 14px;
+    color: white; 
+    line-height: 18px;
+    font-weight: 400;
+    text-align: justify;
+bottom: 500px;
+
+}
+
+
+
+
+
+
+
+
+
+
+#CAPITAO{
+position: relative;
+margin: auto;
+background-color: rgb(1, 39, 6);
+border-radius: 15px;
+width: 1200px;
+padding-top: 5px;
+padding-right: 45px ;
+height: 560px;
+padding-left: 45px ;
+display: none;
+}
+
+#CAPITAO img {
+
+position: relative;
+margin: auto;
+left: 750px;
+text-align: center;
+border-radius: 10px;
+top: 10px;
+width: 400px 
+
+}
+
+
+#CAPITAO h2 {
+ position: relative;
+color: white;
+font-size: 2.5em;
+text-shadow: 5px 4px 1px black;
+font-weight: bolder;
+right: 1px;
+bottom:  575px ;
+
+}
+
+
+#CAPITAO p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    position: relative;
+  left: 20px;
+    font-size: 14px;
+    color: white; 
+    line-height: 18px;
+    font-weight: 400;
+    text-align: justify;
+bottom: 500px;
+
+}
+
+
+
+
+
+
+
+#roubadas{
+position: relative;
+margin: auto;
+background-color: rgb(1, 39, 6);
+border-radius: 15px;
+width: 1200px;
+padding-top: 5px;
+padding-right: 45px ;
+height: 620px;
+padding-left: 45px ;
+display: none;
+
+
+}
+
+
+#roubadas img {
+
+position: relative;
+margin: auto;
+left: 690px;
+text-align: center;
+border-radius: 10px;
+top: 10px;
+width: 400px 
+
+}
+
+
+#roubadas h2 {
+ position: relative;
+color: white;
+font-size: 2.5em;
+text-shadow: 5px 4px 1px black;
+font-weight: bolder;
+right: 1px;
+bottom:  575px ;
+
+}
+
+
+#roubadas p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    position: relative;
+  left: 20px;
+    font-size: 14px;
+    color: white; 
+    line-height: 18px;
+    font-weight: 400;
+    text-align: justify;
+bottom: 500px;
+
+}
+
+
+
+
+
+
+#familia{
+
+  position: relative;
+margin: auto;
+background-color: rgb(1, 39, 6);
+border-radius: 15px;
+width: 1200px;
+padding-top: 5px;
+padding-right: 45px ;
+height: 620px;
+padding-left: 45px ;
+display: none;
+
+}
+
+
+#familia img {
+
+position: relative;
+margin: auto;
+left: 625px;
+text-align: center;
+border-radius: 10px;
+top: 20px;
+width: 450px 
+
+}
+
+
+#familia h2 {
+ position: relative;
+color: white;
+font-size: 2.5em;
+text-shadow: 5px 4px 1px black;
+font-weight: bolder;
+right: 1px;
+bottom:  575px ;
+
+}
+
+
+#familia p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    position: relative;
+  left: 20px;
+    font-size: 14px;
+    color: white; 
+    line-height: 18px;
+    font-weight: 400;
+    text-align: justify;
+bottom: 500px;
+
+}
+
+/*
+#familia p {
+ color: white;
+  position: relative;
+font-weight: bolder;
+left: 20px;
+bottom: 520px;
+
+
+
+}
+
+*/
+div img {
+position: relative;
+margin: auto;
+left: 90px;
+text-align: center;
+border-radius: 10px;
+top: 50px;
+width: 977px ;
+
+}
+
+div h2 {
+  position: relative;
+color: white;
+font-size: 2.0em;
+text-shadow: 5px 4px 1px black;
+font-weight: bolder;
+right: 1px;
+}
+
+div p {
+  color: white;
+  position: relative;
+font-weight: bolder;
+left: 45px;
+
+}
+#art{
+  position: relative;
+margin: auto;
+background-color: rgb(1, 39, 6);
+border-radius: 15px;
+width: 1200px;
+padding-right: 45px ;
+padding-bottom: 45px;
+padding-left: 45px ;
+
+
+
+
+}
+
+
+
+main{
+position: relative;
+flex: 1;
+width: 100%;
+padding: 20px;
+color: black;
+background-image: linear-gradient(to top , rgb(1, 17, 1)  , rgb(1, 3, 1));
+}
+
+
+
+
+
+
+
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+
+}
+
+
+
+body{
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+font-family: Arial, Helvetica, sans-serif;
+overflow-x: hidden;
+ 
+ background-image: linear-gradient(to top , rgb(1, 17, 1)  , rgb(1, 3, 1));
+}
+ .menu {
+position: relative;
+display: flex;
+gap: 35px;
+left: 1029px;
+
+top: -40px;
+
+}
+
+.menu a {
+text-decoration: none;
+color: white;
+
+
+}
+header{
+position: relative;
+min-width: 120px;
+background-color: rgb(10, 110, 10);
+
+
+
+}
+
+header img {
+position: relative;
+
+left: 45px;
+
+
+}

@@ -1,0 +1,159 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+
+}
+
+
+
+body{
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+font-family: Arial, Helvetica, sans-serif;
+overflow-x: hidden;
+  
+}
+ .menu {
+position: relative;
+display: flex;
+gap: 35px;
+left: 1029px;
+
+top: -40px;
+
+}
+
+.menu a {
+text-decoration: none;
+color: white;
+
+
+}
+
+.capa{
+position: relative;
+width: 895px;
+margin: auto;
+border-radius: 15px;
+}
+#h32 {
+position: relative ; 
+font-size: 1.7em;
+left: 45px;
+}
+
+#p2{
+position: relative ;
+bottom: 60px; 
+/*
+left: 750px;
+*/
+
+left: 105px;
+
+
+
+}
+
+
+.ator{
+position: relative;
+width: 700px;
+margin: auto;
+border-radius: 15px;
+
+}
+
+header{
+position: relative;
+min-width: 120px;
+background-color: rgb(10, 110, 10);
+
+
+
+}
+
+header img {
+position: relative;
+
+left: 45px;
+
+
+}
+
+
+img{
+max-width: 100%;
+height: auto;
+display: block;
+
+}
+
+#main1{
+position: relative;
+flex: 1;
+width: 100%;
+padding: 20px;
+color: white;
+ background-color:  rgb(1, 56, 1);
+ 
+}
+
+
+
+
+#h31{
+position: relative ; 
+left: 25px ;
+
+font-size: 2.0em;
+text-shadow: 5px 1px 1px black;
+
+
+}
+
+
+#p1{
+position: relative ; 
+text-align: justify;
+left: 45px;
+text-shadow: 2px 5px 4px black;
+
+}
+
+ol {
+position: relative ; 
+text-align: justify;
+left: 65px;
+text-shadow: 5px 1px 1px black;
+
+}
+
+
+
+/*          A parte 2 do main                      */
+
+/*
+#main2{
+position: relative;
+width: 100%;
+min-height: 100vh;
+background-image: linear-gradient(to bottom , rgb(5, 15, 2) , rgb(15, 87, 6)); 
+max-width: 100vh;
+padding: 20px;
+box-sizing: border-box;
+
+} */
+
+

@@ -1,0 +1,324 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+}
+
+html, body {
+  
+  width: 100%;
+  
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+
+}
+
+
+
+body{
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+ background-image: linear-gradient(to top , rgb(1, 17, 1)  , rgb(1, 3, 1));
+}
+ .menu {
+position: relative;
+display: flex;
+gap: 35px;
+left: 1029px;
+
+top: -40px;
+
+}
+
+.menu a {
+text-decoration: none;
+color: white;
+
+
+}
+
+
+header{
+position: relative;
+min-width: 120px;
+background-color: rgb(10, 110, 10);
+
+
+
+}
+
+header img {
+position: relative;
+
+left: 45px;
+
+
+}
+
+main{
+
+position: relative;
+flex: 1;
+width: 100%;
+padding: 20px;
+color: black;
+background-image: linear-gradient(to top , rgb(1, 17, 1)  , rgb(1, 3, 1));
+
+
+
+}
+
+#poster {
+position: relative;
+width: 385px;
+border-radius: 15px;
+top: 50px;
+left: 1089px;
+
+}
+
+.titulo1{
+position: relative;
+top: 100px;
+left: 220px;
+
+
+}
+#pq{
+position: relative;
+
+bottom: 390px;
+left: 200px;
+color: white;
+}
+
+
+#titulo2{
+color: white;
+text-align: center;
+font-size: 1.9em;
+
+
+}
+
+#div1{
+width: 990px;
+height: 460px;
+border-radius: 15px;
+margin: auto;
+background-color: rgb(5, 0, 0);
+
+padding-bottom: -1px;
+
+
+
+
+}
+
+
+
+
+
+.titulo3{
+position: relative;
+left: 395px;
+bottom: 395px;
+
+
+
+}
+
+
+.pq2{
+position: relative;
+left: 435px;
+bottom: 335px;
+
+}
+
+
+.titulo4{
+
+position: relative;
+left: 395px;
+bottom: 395px;
+font-size: 2.0em;
+
+}
+
+/*
+.pq4{
+
+position: relative;
+left: 435px;
+bottom: 335px;
+
+
+}
+
+*/
+
+
+.pq4{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    position: relative;
+  left: 430px;
+    font-size: 14px;
+    color: white; 
+    line-height: 18px;
+    font-weight: 400;
+    text-align: justify;
+bottom: 300px;
+
+
+
+}
+
+
+#time{
+  /*
+  width: 320px;
+  */
+width: 345px;
+border-radius: 10px;
+
+}
+
+#principal {
+position: relative;
+display: flex;
+gap: 75px;
+width: 1250px;
+background-color: black;
+padding-top: 25px;
+padding-bottom: 15px;
+padding-left: 15px;
+border-radius: 15px;
+right: 100px;
+
+}
+
+
+#principal button {
+  position: relative;
+margin: auto;
+left: 45px;
+
+cursor: pointer;
+text-align: center;
+padding: 14px 30px;
+font-size: 18px;
+font-weight: bold;
+color: white;
+background: #4e0d0d;
+border: none;
+border-radius: 10px;
+
+transition: 0.3s;
+
+
+top: 5px;
+
+}
+
+ #principal button:hover{
+
+background-color: gray;
+    transform: scale(1.05);
+
+
+}
+
+
+#principal a {
+text-decoration: none;
+color: white;
+
+}
+
+
+
+
+#principal img {
+  position: relative;
+  /*
+  display: flex;
+  align-items: center;
+*/
+width: 250px;
+gap: 25px;
+border-radius: 15px;
+}
+
+
+
+
+
+#Iboris{
+width: 990px;
+height: 430px;
+border-radius: 15px;
+margin: auto;
+background-color: rgb(2, 45, 65);
+
+padding-bottom: -1px;
+display: none;
+}
+
+#Iverde{
+
+width: 990px;
+height: 430px;
+border-radius: 15px;
+margin: auto;
+background-color: rgb(8, 138, 51);
+
+padding-bottom: -1px;
+display: none;
+
+}
+
+
+
+#Ilaranja{
+width: 990px;
+height: 430px;
+border-radius: 15px;
+margin: auto;
+background-color: rgb(189, 98, 13);
+
+padding-bottom: -1px;
+display: none;
+}
+
+
+#Iroxa{
+width: 990px;
+height: 430px;
+border-radius: 15px;
+margin: auto;
+background-color: rgb(53, 4, 92);
+
+padding-bottom: -1px;
+display: none;
+}
+
+
+
+.titulo35{
+position: relative ;
+
+left:  330px;
+bottom: 55px;
+font-size: 2.0em;
+
+
+
+}
+
